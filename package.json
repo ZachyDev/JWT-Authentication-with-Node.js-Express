@@ -1,0 +1,24 @@
+{
+  "name": "jwt-authentication",
+  "version": "1.0.0",
+  "description": "JSON web tokens are one of the more popular ways to secure applications, especially in micro-services, but JWT is much more complex than a simple session based user authentication",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ZachyDev/JWT-Authentication-with-Node.js-Express.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ZachyDev/JWT-Authentication-with-Node.js-Express/issues"
+  },
+  "homepage": "https://github.com/ZachyDev/JWT-Authentication-with-Node.js-Express#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
